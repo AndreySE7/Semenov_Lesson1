@@ -12,5 +12,7 @@ fun main() {
     }
     println(andrey)
     println(yana)
-
+    
+    val people = listOf(andrey, yana)
+    println(people)
 }
