@@ -10,8 +10,8 @@ fun main() {
         city = "Saint-Petersburg"
         sex = "women"
     }
-    println(andrey)
-    println(yana)
+    println("Парни: $andrey")
+    println("Девушки: $yana")
     
     val people = listOf(andrey, yana)
     println("Список людей: $people")
