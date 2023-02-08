@@ -14,5 +14,5 @@ fun main() {
     println(yana)
     
     val people = listOf(andrey, yana)
-    println(people)
+    println("Список людей: $people")
 }
